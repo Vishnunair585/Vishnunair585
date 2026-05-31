@@ -41,7 +41,6 @@ Targeting software engineering roles at Google, Meta, Amazon and Apple.
 
 ---
 
-## GitHub stats
 
 ## Projects
 
