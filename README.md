@@ -47,17 +47,17 @@ Targeting software engineering roles at Google, Meta, Amazon and Apple.
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | [Influence-Quality-Auditor](https://github.com/Vishnunair585/Influence-Quality-Auditor) | Detects fake accounts using ML with SHAP explainability | Python, scikit-learn | Completed |
-| [Spotify Clone](https://github.com/Vishnunair585/Spotify) | Pixel-faithful Spotify UI with HTML/CSS/JS | HTML, CSS, JS | Completed |
+| [Spotify Clone](https://github.com/Vishnunair585/Spotify) | Pixel-faithful Spotify UI with HTML/CSS/JS | HTML, CSS, JS | Live |
 | [My Portfolio](https://github.com/Vishnunair585/My_portfolio) | Personal dev portfolio site | TypeScript | Live |
-| FastAPI Backend (coming soon) | REST API with JWT auth, PostgreSQL, Docker | FastAPI, PostgreSQL | In progress |
+| [RankMyAi](https://github.com/Vishnunair585/AI-Rank) | AI Tool Optimal Output Prediction System | Python, ML Models | Live |
 
 ---
 
 ## Currently working on
 
-- Building a production-grade REST API: FastAPI + PostgreSQL + JWT auth + Docker
-- Solving LeetCode daily — arrays, trees, graphs, dynamic programming
-- Learning system design fundamentals (consistent hashing, rate limiting, load balancing)
+- Learning to build a production grade REST API: FastAPI + PostgreSQL + JWT auth + Docker
+- Competitive Programmer with 800+ problems solved across platforms
+- Learning backend fundamentals 
 
 ---
 
