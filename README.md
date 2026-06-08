@@ -1,7 +1,7 @@
 # Hi, I'm Vishnu M
 
 Backend engineer in the making — building scalable systems with Python and PostgreSQL.
-Targeting software engineering roles at Google, Meta, Amazon and Apple.
+Targeting software engineering roles at Big tech.
 
 ---
 
