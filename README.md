@@ -43,7 +43,6 @@ alt="3D GitHub Contribution Graph">
 </p>
 
 <br>
-
 <h2 align="center">
 <font color="#F9A8D4">Contribution Snake</font>
 </h2>
