@@ -37,7 +37,9 @@
 </h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vishnunair585/Vishnunair585/gh-pages/profile-night-rainbow.svg">
+<img
+src="./profile-3d-contrib/profile-night-rainbow.svg"
+alt="3D GitHub Contribution Graph">
 </p>
 
 <br>
